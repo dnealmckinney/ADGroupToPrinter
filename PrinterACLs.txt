@@ -1,0 +1,34 @@
+﻿Printer: Canon Inkjet iP100 series
+User/Group: Everyone
+User/Group: CREATOR OWNER
+User/Group: CREATOR OWNER
+User/Group: vboxuser
+User/Group: vboxuser
+User/Group: Administrators
+User/Group: Administrators
+User/Group: Server Operators
+User/Group: Server Operators
+User/Group: Print Operators
+User/Group: Print Operators
+
+Printer: Brother DCP-116C
+User/Group: vboxuser
+User/Group: vboxuser
+User/Group: CREATOR OWNER
+User/Group: Everyone
+User/Group: Everyone
+User/Group: Administrators
+User/Group: Administrators
+User/Group: Print Operators
+User/Group: Print Operators
+User/Group: Server Operators
+User/Group: Server Operators
+
+Printer: Microsoft XPS Document Writer
+User/Group: CREATOR OWNER
+User/Group: Everyone
+User/Group: Everyone
+User/Group: Administrators
+User/Group: Administrators
+
+
